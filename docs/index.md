@@ -3,7 +3,7 @@ layout: cv
 title: Tyler Sprague's Resume
 ---
 # Tyler Sprague
-Student, Analyst
+Experienced individual with a background in finance and data analytics. Brings self-initiative strong work ethic and organizational skills to any work setting. Collaborative and willing to voice opinions to motivate effective action and communication
 
 <div id="webaddress">
 <a href="(360) 907-8185">(360) 907-8185</a>
