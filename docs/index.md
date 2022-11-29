@@ -2,88 +2,95 @@
 layout: cv
 title: Tyler Sprague's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Tyler Sprague
+Student, Analyst
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="(360) 907-8185">(360) 907-8185</a>
+| <a href="tsprague98@outlook.com">tsprague98@outlook.com</a>
+| <a href="https://www.linkedin.com/in/tyler-sprague17">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected December 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Science in Finance
+- Certificate: Data Science
+- Related Courses: Advanced Financial Modeling, Advanced Financial Management, Cost Accounting, Managerial Accounting, Financial Accounting, Data Science Programming, Business Analytics, Micro and Macro Economics, Financial Planning, Financing New Ventures
 
 
-## Related Experience
+## Experience
 
-### Internships
+### Omnichannel Loss Prevention Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2022 - December 2022`
+__GNC__, Pittsburgh, Pennsylvania
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Analyzed inventory overages/shortages and reviewed for exceptions
+- On hand analysis to determine frequency rate at which stores reported shipment discrepancies
+- Redeveloped and updated multiple Tableau reports
+- Collaborated with Accounting and Omnichannel Manager to balance month end physical inventory results
+- Developed documentation and process for badge entry to corporate headquarters
 
 
-## Service and Work History
+### Student Manager
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`April 2020 - April 2022`
+__Brigham Young University - Idaho, Outdoor Resource Center__, Rexburg, Idaho
+
+- Balanced cash drawers and deposited cash and checks gained weekly
+- Addressed customers' needs and requests swiftly and accurately increased overall customer satisfaction and retention
+- Created and performed multiple projects to increase the overall work atmosphere
+
+### Office Help
+
+`January 2020 - March 2020`
+__A-1 Precision, Inc.__, Vancouver, Washington
+
+- Administered physical and digital filing systems, keeping records well-organized and easily retrievable by team members
+- Monitored office supply use and stock levels, replaced materials as needed and supplied materials to shop workers
+- Completed assigned projects promptly when asked
+
+### Head Detailer
+
+`January 2018 - April 2018`
+__Maaco Auto Collision Repair and Paint Shop__, Portland, Oregon
+
+- Cleaned interior, upholstery, rugs and other surfaces and added air fresheners to the interior of vehicle
+- Inspected customer vehicles prior to service and immediately afterward to make sure of no visible damage
+- Verified proper stickers and plates were attached to the vehicle to establish status the of the vehicle
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills
 
+- Fluent in the French Language
+- Efficient with VBA, SQL, and Python
+- Knowledgeable in Power BI and Tableau
+- Effective in Microsoft Excel
+- Proficient in Microsoft Access
+- Communication Skills
+- Organizational Skills
+- Detail Oriented
+- Analytical
+- Leadership Skills 
+
+
+## Volunteer Experience
+
+`2018-2019`
+__Full-Time Volunteer Representative__, New Caledonia
+
+- Designed lesson plans and strategies to help hundreds of people achieve personal goals
+- Trained 6 volunteers how to be effective and to keep goals
+- Translated French to English and English to French to volunteers and natives
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2022 -->
 
 
