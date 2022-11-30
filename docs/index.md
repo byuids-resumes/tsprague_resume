@@ -6,12 +6,10 @@ title: Tyler Sprague's Resume
 Experienced individual with a background in finance and data analytics. Brings self-initiative strong work ethic and organizational skills to any work setting. Collaborative and willing to voice opinions to motivate effective action and communication
 
 <div id="webaddress">
-<a href="(360) 907-8185">(360) 907-8185</a>
-| <a href="tsprague98@outlook.com">tsprague98@outlook.com</a>
+<a href="https://github.com/tdsprague">GitHub</a>
+| <a href="mailto:tsprague98@outlook.com?subject=subject-Mail me">tsprague98@outlook.com</a>
 | <a href="https://www.linkedin.com/in/tyler-sprague17">LinkedIn</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
@@ -66,18 +64,19 @@ __Maaco Auto Collision Repair and Paint Shop__, Portland, Oregon
 
 
 ## Skills
-
-- Fluent in the French Language
+### Technical
 - Efficient with VBA, SQL, and Python
 - Knowledgeable in Power BI and Tableau
 - Effective in Microsoft Excel
 - Proficient in Microsoft Access
+
+### Soft
+- Fluent in the French Language
 - Communication Skills
 - Organizational Skills
 - Detail Oriented
 - Analytical
 - Leadership Skills 
-
 
 ## Volunteer Experience
 
@@ -87,10 +86,5 @@ __Full-Time Volunteer Representative__, New Caledonia
 - Designed lesson plans and strategies to help hundreds of people achieve personal goals
 - Trained 6 volunteers how to be effective and to keep goals
 - Translated French to English and English to French to volunteers and natives
-
-
-<!-- ### Footer
-
-Last updated: November 2022 -->
 
 
